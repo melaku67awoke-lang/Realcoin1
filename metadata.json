@@ -1,0 +1,7 @@
+{
+  "name": "Real Coin",
+  "description": "Real Coin wallet with P2P trading, Escrow & Dispute, USDT deposit & bonus, Spinning wheel, KYC, User levels, Daily rewards, and Chat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
